@@ -1,0 +1,18 @@
+.InputContainer {
+    margin-block: 20px !important;
+    border-color: #000000 !important;
+}
+.eyeStyle{
+    font-size: 20px;
+}
+.inputstyles {
+    background-color: transparent;
+}
+.signUpBtn {
+    background-color: #000000 !important;
+    color: white;
+}
+.signInBtn {
+    background-color: #D45171 !important;
+    color: white;
+}
