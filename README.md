@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a product rating system. You can just browse among the available products on this site which will be fetched from different eccomerce sites like Amazon then you will compare with the ratings in other eccomerce site like Alibaba without leaving this site.
+On the system you can leave your comment which other users will be able to see. The site will enable also tracking of a particular product from a particular site. Thats applicable when one wants to monitor how a product is doing for future purchase decision. This can also be used by sellers.
